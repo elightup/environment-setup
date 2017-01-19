@@ -11,7 +11,7 @@ fi
 PS1='\[\033]0;${PWD//[^[:ascii:]]/?}\007\]' # set window title
 PS1="$PS1"'\n'                 # new line
 PS1="$PS1"'\[\033[33m\]'       # change to brownish yellow
-PS1="$PS1"'\w'                 # current working directory
+PS1="$PS1"'\W'                 # current working directory
 if test -z "$WINELOADERNOEXEC"
 then
 	GIT_EXEC_PATH="$(git --exec-path 2>/dev/null)"
