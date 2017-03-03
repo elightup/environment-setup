@@ -27,10 +27,12 @@ brew cask install sublime-text
 brew install node
 npm i -g node-sass postcss-cli autoprefixer
 
+brew cask install poedit
+
 brew cask install filezilla
 brew cask install flux
 brew cask install google-chrome
+brew cask install firefox
 
-# brew cask install firefox
 # brew cask install skype
 # brew cask install spectacle
