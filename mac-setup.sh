@@ -25,6 +25,7 @@ brew cask install sublime-text
 # brew cask install phpstorm
 
 brew install node
+npm i -g node-sass postcss-cli autoprefixer
 
 brew cask install filezilla
 brew cask install flux
