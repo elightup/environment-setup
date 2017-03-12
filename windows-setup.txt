@@ -1,0 +1,23 @@
+Firefox
+Google Chrome
+FileZilla
+
+PHPStorm
+Sublime Text Portable
+
+XAMPP Portable
+NodeJS
+Git Portable
+SourceTree
+
+Photoshop CC 2015
+
+Unikey Portable
+
+npm i -g node-sass postcss-cli autoprefixer
+
+xdebug
+composer
+wp-cli
+php-code-sniffer
+php-cs-fixer
