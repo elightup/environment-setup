@@ -21,3 +21,5 @@ composer
 wp-cli
 php-code-sniffer
 php-cs-fixer
+
+Source Code Pro font (https://github.com/adobe-fonts/source-code-pro/releases/latest)
