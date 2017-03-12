@@ -16,7 +16,7 @@ Unikey Portable
 
 npm i -g node-sass postcss-cli autoprefixer
 
-xdebug
+xdebug (https://xdebug.org/wizard.php)
 composer
 wp-cli
 php-code-sniffer
