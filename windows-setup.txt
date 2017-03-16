@@ -18,8 +18,9 @@ npm i -g node-sass postcss-cli autoprefixer
 
 xdebug (https://xdebug.org/wizard.php)
 composer
-wp-cli
-php-code-sniffer
-php-cs-fixer
+composer global require wp-cli/wp-cli
+composer global require "squizlabs/php_codesniffer=*"
+composer global require phpmetrics/phpmetrics
+composer global phpmd/phpmd
 
 Source Code Pro font (https://github.com/adobe-fonts/source-code-pro/releases/latest)
