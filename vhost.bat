@@ -9,7 +9,7 @@
 SET ApacheConf=C:\xampp\apache\conf\extra\httpd-vhosts.conf
 
 :: Install path of the site.
-SET InstallPath=C:\Users\anhtran\Sites\%1.dev
+SET InstallPath=%USERPROFILE%\Sites\%1.dev
 
 :: MySQL account.
 SET MysqlUsername=root
