@@ -19,10 +19,10 @@ npm i -g node-sass postcss-cli autoprefixer
 xdebug (https://xdebug.org/wizard.php)
 composer
 composer global require wp-cli/wp-cli
-composer global require "squizlabs/php_codesniffer=*"
 composer global require phpmetrics/phpmetrics
-composer global phpmd/phpmd
-composer global wp-coding-standards/wpcs
+composer global require phpmd/phpmd
+composer global require wp-coding-standards/wpcs
+composer global require "squizlabs/php_codesniffer=*"
 phpcs --config-set installed_paths %APPDATA%\Composer\vendor\wp-coding-standards\wpcs\
 
 Source Code Pro font (https://github.com/adobe-fonts/source-code-pro/releases/latest)
