@@ -14,15 +14,14 @@ valet park
 brew install mariadb
 brew services start mariadb
 
-brew install php-code-sniffer
-brew install php-cs-fixer
+composer global require wp-coding-standards/wpcs
 brew install wp-cli
 
 brew install git
 # brew cask install sourcetree
 
 brew cask install sublime-text
-# brew cask install phpstorm
+brew cask install phpstorm
 
 brew install node
 npm i -g node-sass postcss-cli autoprefixer
@@ -34,5 +33,5 @@ brew cask install flux
 brew cask install google-chrome
 brew cask install firefox
 
-# brew cask install skype
-# brew cask install spectacle
+brew cask install skype
+brew cask install spectacle
